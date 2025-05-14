@@ -1,0 +1,24 @@
+# PHP specific
+/vendor/
+.env
+*.log
+*.cache
+
+# IDE specific
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# XAMPP specific
+/xampp/
+/xamppfiles/ 
